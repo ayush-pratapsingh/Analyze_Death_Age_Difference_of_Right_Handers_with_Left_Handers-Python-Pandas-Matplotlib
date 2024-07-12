@@ -1,4 +1,4 @@
-# Analyze Death Age Difference of Right Handers with Left Handers (Python Pandas Matplotlib)
+# Analyze Death Age Difference of Right Handers with Left Handers (Python, Pandas, Matplotlib)
 
 **Introduction -**
 In 1991, a study reported that left-handed individuals die, on average, nine years earlier than their right-handed counterparts. This project investigates the validity of this claim by analyzing age distribution data, focusing on whether the observed difference in average age at death can be attributed to changing rates of left-handedness over time.
